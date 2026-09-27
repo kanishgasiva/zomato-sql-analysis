@@ -12,7 +12,7 @@ Dataset
 --
 Source: Kaggle
 
-Link: [ kaggle.com/datasets/shrutimehta/zomato-restaurants-data ](https://kaggle.com/datasets/shrutimehta/zomato-restaurants-data)]
+Link: [ kaggle.com/datasets/shrutimehta/zomato-restaurants-data ](https://kaggle.com/datasets/shrutimehta/zomato-restaurants-data)
 
 Contains restaurant-level information including location, ratings, votes, cuisines, cost, and other restaurant attributes.
 
